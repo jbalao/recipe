@@ -16,6 +16,8 @@ This recipe provides a quick and easy method for making perfectly cooked sunny s
 3. Salt
 4. Love
 
+![Breakfast is served!](https://raw.githubusercontent.com/jbalao/recipe/main/recipe.jpg)
+
 Recipe by: **Jonas Balao**
 *last line changed locally*
 ### This is a REMOTE change :O
