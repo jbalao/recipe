@@ -1,7 +1,11 @@
+# HERE IS A NEW LEVEL 1 HEADING
+
 ### This is a LOCAL change :)
 # recipe
 changed remotely
 Title: Sunny Side-up Eggs Recipe
+
+### HERE IS A NEW LEVEL 3 HEADING
 
 Description:
 
